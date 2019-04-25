@@ -2,8 +2,8 @@
 /**
  * Write a description of class Runner here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Ryan Auslander Chris Kiefer
+ * @version v1
  */
 public class Runner
 {
